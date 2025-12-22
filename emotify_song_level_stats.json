@@ -1,0 +1,1522 @@
+{
+  "song_1": {
+    "amazement": {
+      "mean": 0.1458,
+      "std": 0.3529
+    },
+    "solemnity": {
+      "mean": 0.3333,
+      "std": 0.4714
+    },
+    "tenderness": {
+      "mean": 0.2083,
+      "std": 0.4061
+    },
+    "nostalgia": {
+      "mean": 0.2917,
+      "std": 0.4545
+    },
+    "calmness": {
+      "mean": 0.625,
+      "std": 0.4841
+    },
+    "power": {
+      "mean": 0.0208,
+      "std": 0.1428
+    },
+    "joyful_activation": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "tension": {
+      "mean": 0.0625,
+      "std": 0.2421
+    },
+    "sadness": {
+      "mean": 0.3125,
+      "std": 0.4635
+    }
+  },
+  "song_10": {
+    "amazement": {
+      "mean": 0.2353,
+      "std": 0.4242
+    },
+    "solemnity": {
+      "mean": 0.2941,
+      "std": 0.4556
+    },
+    "tenderness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "nostalgia": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "calmness": {
+      "mean": 0.1176,
+      "std": 0.3222
+    },
+    "power": {
+      "mean": 0.1176,
+      "std": 0.3222
+    },
+    "joyful_activation": {
+      "mean": 0.3529,
+      "std": 0.4779
+    },
+    "tension": {
+      "mean": 0.3529,
+      "std": 0.4779
+    },
+    "sadness": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "song_11": {
+    "amazement": {
+      "mean": 0.12,
+      "std": 0.325
+    },
+    "solemnity": {
+      "mean": 0.14,
+      "std": 0.347
+    },
+    "tenderness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "nostalgia": {
+      "mean": 0.02,
+      "std": 0.14
+    },
+    "calmness": {
+      "mean": 0.16,
+      "std": 0.3666
+    },
+    "power": {
+      "mean": 0.3,
+      "std": 0.4583
+    },
+    "joyful_activation": {
+      "mean": 0.38,
+      "std": 0.4854
+    },
+    "tension": {
+      "mean": 0.64,
+      "std": 0.48
+    },
+    "sadness": {
+      "mean": 0.06,
+      "std": 0.2375
+    }
+  },
+  "song_12": {
+    "amazement": {
+      "mean": 0.1111,
+      "std": 0.3143
+    },
+    "solemnity": {
+      "mean": 0.3778,
+      "std": 0.4848
+    },
+    "tenderness": {
+      "mean": 0.0889,
+      "std": 0.2846
+    },
+    "nostalgia": {
+      "mean": 0.1556,
+      "std": 0.3624
+    },
+    "calmness": {
+      "mean": 0.3333,
+      "std": 0.4714
+    },
+    "power": {
+      "mean": 0.3333,
+      "std": 0.4714
+    },
+    "joyful_activation": {
+      "mean": 0.0444,
+      "std": 0.2061
+    },
+    "tension": {
+      "mean": 0.4444,
+      "std": 0.4969
+    },
+    "sadness": {
+      "mean": 0.1333,
+      "std": 0.3399
+    }
+  },
+  "song_13": {
+    "amazement": {
+      "mean": 0.3333,
+      "std": 0.4714
+    },
+    "solemnity": {
+      "mean": 0.0741,
+      "std": 0.2619
+    },
+    "tenderness": {
+      "mean": 0.1481,
+      "std": 0.3552
+    },
+    "nostalgia": {
+      "mean": 0.1852,
+      "std": 0.3884
+    },
+    "calmness": {
+      "mean": 0.3704,
+      "std": 0.4829
+    },
+    "power": {
+      "mean": 0.1111,
+      "std": 0.3143
+    },
+    "joyful_activation": {
+      "mean": 0.1852,
+      "std": 0.3884
+    },
+    "tension": {
+      "mean": 0.1852,
+      "std": 0.3884
+    },
+    "sadness": {
+      "mean": 0.0741,
+      "std": 0.2619
+    }
+  },
+  "song_14": {
+    "amazement": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "solemnity": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "tenderness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "nostalgia": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "calmness": {
+      "mean": 0.1818,
+      "std": 0.3857
+    },
+    "power": {
+      "mean": 0.4545,
+      "std": 0.4979
+    },
+    "joyful_activation": {
+      "mean": 0.5455,
+      "std": 0.4979
+    },
+    "tension": {
+      "mean": 0.3636,
+      "std": 0.481
+    },
+    "sadness": {
+      "mean": 0.2727,
+      "std": 0.4454
+    }
+  },
+  "song_15": {
+    "amazement": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "solemnity": {
+      "mean": 0.3636,
+      "std": 0.481
+    },
+    "tenderness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "nostalgia": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "calmness": {
+      "mean": 0.3636,
+      "std": 0.481
+    },
+    "power": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "joyful_activation": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "tension": {
+      "mean": 0.6364,
+      "std": 0.481
+    },
+    "sadness": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "song_16": {
+    "amazement": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "solemnity": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "tenderness": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "nostalgia": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "calmness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "power": {
+      "mean": 0.5,
+      "std": 0.5
+    },
+    "joyful_activation": {
+      "mean": 0.5833,
+      "std": 0.493
+    },
+    "tension": {
+      "mean": 0.5,
+      "std": 0.5
+    },
+    "sadness": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "song_17": {
+    "amazement": {
+      "mean": 0.3636,
+      "std": 0.481
+    },
+    "solemnity": {
+      "mean": 0.3636,
+      "std": 0.481
+    },
+    "tenderness": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "nostalgia": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "calmness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "power": {
+      "mean": 0.6364,
+      "std": 0.481
+    },
+    "joyful_activation": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "tension": {
+      "mean": 0.8182,
+      "std": 0.3857
+    },
+    "sadness": {
+      "mean": 0.0909,
+      "std": 0.2875
+    }
+  },
+  "song_18": {
+    "amazement": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "solemnity": {
+      "mean": 0.1818,
+      "std": 0.3857
+    },
+    "tenderness": {
+      "mean": 0.1818,
+      "std": 0.3857
+    },
+    "nostalgia": {
+      "mean": 0.2727,
+      "std": 0.4454
+    },
+    "calmness": {
+      "mean": 0.7273,
+      "std": 0.4454
+    },
+    "power": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "joyful_activation": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "tension": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "sadness": {
+      "mean": 0.0909,
+      "std": 0.2875
+    }
+  },
+  "song_19": {
+    "amazement": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "solemnity": {
+      "mean": 0.3636,
+      "std": 0.481
+    },
+    "tenderness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "nostalgia": {
+      "mean": 0.2727,
+      "std": 0.4454
+    },
+    "calmness": {
+      "mean": 0.2727,
+      "std": 0.4454
+    },
+    "power": {
+      "mean": 0.2727,
+      "std": 0.4454
+    },
+    "joyful_activation": {
+      "mean": 0.1818,
+      "std": 0.3857
+    },
+    "tension": {
+      "mean": 0.3636,
+      "std": 0.481
+    },
+    "sadness": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "song_2": {
+    "amazement": {
+      "mean": 0.2766,
+      "std": 0.4473
+    },
+    "solemnity": {
+      "mean": 0.2128,
+      "std": 0.4093
+    },
+    "tenderness": {
+      "mean": 0.0213,
+      "std": 0.1443
+    },
+    "nostalgia": {
+      "mean": 0.0426,
+      "std": 0.2018
+    },
+    "calmness": {
+      "mean": 0.0213,
+      "std": 0.1443
+    },
+    "power": {
+      "mean": 0.5106,
+      "std": 0.4999
+    },
+    "joyful_activation": {
+      "mean": 0.6383,
+      "std": 0.4805
+    },
+    "tension": {
+      "mean": 0.2128,
+      "std": 0.4093
+    },
+    "sadness": {
+      "mean": 0.0213,
+      "std": 0.1443
+    }
+  },
+  "song_20": {
+    "amazement": {
+      "mean": 0.0909,
+      "std": 0.2875
+    },
+    "solemnity": {
+      "mean": 0.1818,
+      "std": 0.3857
+    },
+    "tenderness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "nostalgia": {
+      "mean": 0.2727,
+      "std": 0.4454
+    },
+    "calmness": {
+      "mean": 0.4545,
+      "std": 0.4979
+    },
+    "power": {
+      "mean": 0.4545,
+      "std": 0.4979
+    },
+    "joyful_activation": {
+      "mean": 0.3636,
+      "std": 0.481
+    },
+    "tension": {
+      "mean": 0.3636,
+      "std": 0.481
+    },
+    "sadness": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "song_21": {
+    "amazement": {
+      "mean": 0.2453,
+      "std": 0.4303
+    },
+    "solemnity": {
+      "mean": 0.0189,
+      "std": 0.1361
+    },
+    "tenderness": {
+      "mean": 0.4151,
+      "std": 0.4927
+    },
+    "nostalgia": {
+      "mean": 0.3962,
+      "std": 0.4891
+    },
+    "calmness": {
+      "mean": 0.283,
+      "std": 0.4505
+    },
+    "power": {
+      "mean": 0.0377,
+      "std": 0.1906
+    },
+    "joyful_activation": {
+      "mean": 0.3208,
+      "std": 0.4668
+    },
+    "tension": {
+      "mean": 0.1321,
+      "std": 0.3386
+    },
+    "sadness": {
+      "mean": 0.0943,
+      "std": 0.2923
+    }
+  },
+  "song_22": {
+    "amazement": {
+      "mean": 0.1333,
+      "std": 0.3399
+    },
+    "solemnity": {
+      "mean": 0.0444,
+      "std": 0.2061
+    },
+    "tenderness": {
+      "mean": 0.6222,
+      "std": 0.4848
+    },
+    "nostalgia": {
+      "mean": 0.5333,
+      "std": 0.4989
+    },
+    "calmness": {
+      "mean": 0.2889,
+      "std": 0.4532
+    },
+    "power": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "joyful_activation": {
+      "mean": 0.1111,
+      "std": 0.3143
+    },
+    "tension": {
+      "mean": 0.0444,
+      "std": 0.2061
+    },
+    "sadness": {
+      "mean": 0.2667,
+      "std": 0.4422
+    }
+  },
+  "song_23": {
+    "amazement": {
+      "mean": 0.1053,
+      "std": 0.3069
+    },
+    "solemnity": {
+      "mean": 0.5789,
+      "std": 0.4937
+    },
+    "tenderness": {
+      "mean": 0.2105,
+      "std": 0.4077
+    },
+    "nostalgia": {
+      "mean": 0.2632,
+      "std": 0.4403
+    },
+    "calmness": {
+      "mean": 0.5263,
+      "std": 0.4993
+    },
+    "power": {
+      "mean": 0.1053,
+      "std": 0.3069
+    },
+    "joyful_activation": {
+      "mean": 0.0526,
+      "std": 0.2233
+    },
+    "tension": {
+      "mean": 0.1053,
+      "std": 0.3069
+    },
+    "sadness": {
+      "mean": 0.2632,
+      "std": 0.4403
+    }
+  },
+  "song_24": {
+    "amazement": {
+      "mean": 0.25,
+      "std": 0.433
+    },
+    "solemnity": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "tenderness": {
+      "mean": 0.5833,
+      "std": 0.493
+    },
+    "nostalgia": {
+      "mean": 0.3333,
+      "std": 0.4714
+    },
+    "calmness": {
+      "mean": 0.4167,
+      "std": 0.493
+    },
+    "power": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "joyful_activation": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "tension": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "sadness": {
+      "mean": 0.0833,
+      "std": 0.2764
+    }
+  },
+  "song_25": {
+    "amazement": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "solemnity": {
+      "mean": 0.5,
+      "std": 0.5
+    },
+    "tenderness": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "nostalgia": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "calmness": {
+      "mean": 0.4167,
+      "std": 0.493
+    },
+    "power": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "joyful_activation": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "tension": {
+      "mean": 0.5833,
+      "std": 0.493
+    },
+    "sadness": {
+      "mean": 0.0833,
+      "std": 0.2764
+    }
+  },
+  "song_26": {
+    "amazement": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "solemnity": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "tenderness": {
+      "mean": 0.5833,
+      "std": 0.493
+    },
+    "nostalgia": {
+      "mean": 0.5,
+      "std": 0.5
+    },
+    "calmness": {
+      "mean": 0.4167,
+      "std": 0.493
+    },
+    "power": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "joyful_activation": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "tension": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "sadness": {
+      "mean": 0.25,
+      "std": 0.433
+    }
+  },
+  "song_27": {
+    "amazement": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "solemnity": {
+      "mean": 0.4167,
+      "std": 0.493
+    },
+    "tenderness": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "nostalgia": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "calmness": {
+      "mean": 0.5833,
+      "std": 0.493
+    },
+    "power": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "joyful_activation": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "tension": {
+      "mean": 0.5,
+      "std": 0.5
+    },
+    "sadness": {
+      "mean": 0.3333,
+      "std": 0.4714
+    }
+  },
+  "song_28": {
+    "amazement": {
+      "mean": 0.0357,
+      "std": 0.1856
+    },
+    "solemnity": {
+      "mean": 0.0357,
+      "std": 0.1856
+    },
+    "tenderness": {
+      "mean": 0.0714,
+      "std": 0.2575
+    },
+    "nostalgia": {
+      "mean": 0.8929,
+      "std": 0.3093
+    },
+    "calmness": {
+      "mean": 0.2143,
+      "std": 0.4103
+    },
+    "power": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "joyful_activation": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "tension": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "sadness": {
+      "mean": 0.8571,
+      "std": 0.3499
+    }
+  },
+  "song_29": {
+    "amazement": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "solemnity": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "tenderness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "nostalgia": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "calmness": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "power": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "joyful_activation": {
+      "mean": 0.3333,
+      "std": 0.4714
+    },
+    "tension": {
+      "mean": 0.3333,
+      "std": 0.4714
+    },
+    "sadness": {
+      "mean": 0.25,
+      "std": 0.433
+    }
+  },
+  "song_3": {
+    "amazement": {
+      "mean": 0.0889,
+      "std": 0.2846
+    },
+    "solemnity": {
+      "mean": 0.4222,
+      "std": 0.4939
+    },
+    "tenderness": {
+      "mean": 0.1556,
+      "std": 0.3624
+    },
+    "nostalgia": {
+      "mean": 0.3111,
+      "std": 0.4629
+    },
+    "calmness": {
+      "mean": 0.5111,
+      "std": 0.4999
+    },
+    "power": {
+      "mean": 0.0444,
+      "std": 0.2061
+    },
+    "joyful_activation": {
+      "mean": 0.0667,
+      "std": 0.2494
+    },
+    "tension": {
+      "mean": 0.2,
+      "std": 0.4
+    },
+    "sadness": {
+      "mean": 0.2889,
+      "std": 0.4532
+    }
+  },
+  "song_30": {
+    "amazement": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "solemnity": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "tenderness": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "nostalgia": {
+      "mean": 0.4167,
+      "std": 0.493
+    },
+    "calmness": {
+      "mean": 0.0833,
+      "std": 0.2764
+    },
+    "power": {
+      "mean": 0.25,
+      "std": 0.433
+    },
+    "joyful_activation": {
+      "mean": 0.4167,
+      "std": 0.493
+    },
+    "tension": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "sadness": {
+      "mean": 0.0833,
+      "std": 0.2764
+    }
+  },
+  "song_31": {
+    "amazement": {
+      "mean": 0.02,
+      "std": 0.14
+    },
+    "solemnity": {
+      "mean": 0.26,
+      "std": 0.4386
+    },
+    "tenderness": {
+      "mean": 0.18,
+      "std": 0.3842
+    },
+    "nostalgia": {
+      "mean": 0.3,
+      "std": 0.4583
+    },
+    "calmness": {
+      "mean": 0.1,
+      "std": 0.3
+    },
+    "power": {
+      "mean": 0.26,
+      "std": 0.4386
+    },
+    "joyful_activation": {
+      "mean": 0.2,
+      "std": 0.4
+    },
+    "tension": {
+      "mean": 0.24,
+      "std": 0.4271
+    },
+    "sadness": {
+      "mean": 0.3,
+      "std": 0.4583
+    }
+  },
+  "song_32": {
+    "amazement": {
+      "mean": 0.0652,
+      "std": 0.2469
+    },
+    "solemnity": {
+      "mean": 0.1739,
+      "std": 0.379
+    },
+    "tenderness": {
+      "mean": 0.0217,
+      "std": 0.1458
+    },
+    "nostalgia": {
+      "mean": 0.1522,
+      "std": 0.3592
+    },
+    "calmness": {
+      "mean": 0.1087,
+      "std": 0.3113
+    },
+    "power": {
+      "mean": 0.5217,
+      "std": 0.4995
+    },
+    "joyful_activation": {
+      "mean": 0.1304,
+      "std": 0.3368
+    },
+    "tension": {
+      "mean": 0.3696,
+      "std": 0.4827
+    },
+    "sadness": {
+      "mean": 0.3913,
+      "std": 0.488
+    }
+  },
+  "song_33": {
+    "amazement": {
+      "mean": 0.1154,
+      "std": 0.3195
+    },
+    "solemnity": {
+      "mean": 0.1538,
+      "std": 0.3608
+    },
+    "tenderness": {
+      "mean": 0.1923,
+      "std": 0.3941
+    },
+    "nostalgia": {
+      "mean": 0.3462,
+      "std": 0.4757
+    },
+    "calmness": {
+      "mean": 0.1538,
+      "std": 0.3608
+    },
+    "power": {
+      "mean": 0.1923,
+      "std": 0.3941
+    },
+    "joyful_activation": {
+      "mean": 0.1154,
+      "std": 0.3195
+    },
+    "tension": {
+      "mean": 0.1154,
+      "std": 0.3195
+    },
+    "sadness": {
+      "mean": 0.1154,
+      "std": 0.3195
+    }
+  },
+  "song_34": {
+    "amazement": {
+      "mean": 0.3571,
+      "std": 0.4792
+    },
+    "solemnity": {
+      "mean": 0.4286,
+      "std": 0.4949
+    },
+    "tenderness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "nostalgia": {
+      "mean": 0.0714,
+      "std": 0.2575
+    },
+    "calmness": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "power": {
+      "mean": 0.4286,
+      "std": 0.4949
+    },
+    "joyful_activation": {
+      "mean": 0.2143,
+      "std": 0.4103
+    },
+    "tension": {
+      "mean": 0.4286,
+      "std": 0.4949
+    },
+    "sadness": {
+      "mean": 0.1429,
+      "std": 0.3499
+    }
+  },
+  "song_35": {
+    "amazement": {
+      "mean": 0.3077,
+      "std": 0.4615
+    },
+    "solemnity": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "tenderness": {
+      "mean": 0.0769,
+      "std": 0.2665
+    },
+    "nostalgia": {
+      "mean": 0.2308,
+      "std": 0.4213
+    },
+    "calmness": {
+      "mean": 0.0769,
+      "std": 0.2665
+    },
+    "power": {
+      "mean": 0.4615,
+      "std": 0.4985
+    },
+    "joyful_activation": {
+      "mean": 0.6154,
+      "std": 0.4865
+    },
+    "tension": {
+      "mean": 0.2308,
+      "std": 0.4213
+    },
+    "sadness": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "song_36": {
+    "amazement": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "solemnity": {
+      "mean": 0.5,
+      "std": 0.5
+    },
+    "tenderness": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "nostalgia": {
+      "mean": 0.2143,
+      "std": 0.4103
+    },
+    "calmness": {
+      "mean": 0.2857,
+      "std": 0.4518
+    },
+    "power": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "joyful_activation": {
+      "mean": 0.0714,
+      "std": 0.2575
+    },
+    "tension": {
+      "mean": 0.2857,
+      "std": 0.4518
+    },
+    "sadness": {
+      "mean": 0.2143,
+      "std": 0.4103
+    }
+  },
+  "song_37": {
+    "amazement": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "solemnity": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "tenderness": {
+      "mean": 0.2143,
+      "std": 0.4103
+    },
+    "nostalgia": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "calmness": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "power": {
+      "mean": 0.0714,
+      "std": 0.2575
+    },
+    "joyful_activation": {
+      "mean": 0.2857,
+      "std": 0.4518
+    },
+    "tension": {
+      "mean": 0.5,
+      "std": 0.5
+    },
+    "sadness": {
+      "mean": 0.1429,
+      "std": 0.3499
+    }
+  },
+  "song_38": {
+    "amazement": {
+      "mean": 0.2308,
+      "std": 0.4213
+    },
+    "solemnity": {
+      "mean": 0.1538,
+      "std": 0.3608
+    },
+    "tenderness": {
+      "mean": 0.3846,
+      "std": 0.4865
+    },
+    "nostalgia": {
+      "mean": 0.5385,
+      "std": 0.4985
+    },
+    "calmness": {
+      "mean": 0.3077,
+      "std": 0.4615
+    },
+    "power": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "joyful_activation": {
+      "mean": 0.0769,
+      "std": 0.2665
+    },
+    "tension": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "sadness": {
+      "mean": 0.3077,
+      "std": 0.4615
+    }
+  },
+  "song_39": {
+    "amazement": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "solemnity": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "tenderness": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "nostalgia": {
+      "mean": 0.0714,
+      "std": 0.2575
+    },
+    "calmness": {
+      "mean": 0.2857,
+      "std": 0.4518
+    },
+    "power": {
+      "mean": 0.2857,
+      "std": 0.4518
+    },
+    "joyful_activation": {
+      "mean": 0.0714,
+      "std": 0.2575
+    },
+    "tension": {
+      "mean": 0.2857,
+      "std": 0.4518
+    },
+    "sadness": {
+      "mean": 0.4286,
+      "std": 0.4949
+    }
+  },
+  "song_4": {
+    "amazement": {
+      "mean": 0.4783,
+      "std": 0.4995
+    },
+    "solemnity": {
+      "mean": 0.3696,
+      "std": 0.4827
+    },
+    "tenderness": {
+      "mean": 0.0217,
+      "std": 0.1458
+    },
+    "nostalgia": {
+      "mean": 0.0217,
+      "std": 0.1458
+    },
+    "calmness": {
+      "mean": 0.1087,
+      "std": 0.3113
+    },
+    "power": {
+      "mean": 0.413,
+      "std": 0.4924
+    },
+    "joyful_activation": {
+      "mean": 0.5652,
+      "std": 0.4957
+    },
+    "tension": {
+      "mean": 0.0217,
+      "std": 0.1458
+    },
+    "sadness": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "song_40": {
+    "amazement": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "solemnity": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "tenderness": {
+      "mean": 0.4286,
+      "std": 0.4949
+    },
+    "nostalgia": {
+      "mean": 0.5714,
+      "std": 0.4949
+    },
+    "calmness": {
+      "mean": 0.5,
+      "std": 0.5
+    },
+    "power": {
+      "mean": 0.0714,
+      "std": 0.2575
+    },
+    "joyful_activation": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "tension": {
+      "mean": 0.1429,
+      "std": 0.3499
+    },
+    "sadness": {
+      "mean": 0.4286,
+      "std": 0.4949
+    }
+  },
+  "song_5": {
+    "amazement": {
+      "mean": 0.2941,
+      "std": 0.4556
+    },
+    "solemnity": {
+      "mean": 0.2941,
+      "std": 0.4556
+    },
+    "tenderness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "nostalgia": {
+      "mean": 0.0588,
+      "std": 0.2353
+    },
+    "calmness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "power": {
+      "mean": 0.4706,
+      "std": 0.4991
+    },
+    "joyful_activation": {
+      "mean": 0.5882,
+      "std": 0.4922
+    },
+    "tension": {
+      "mean": 0.3529,
+      "std": 0.4779
+    },
+    "sadness": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  },
+  "song_6": {
+    "amazement": {
+      "mean": 0.2941,
+      "std": 0.4556
+    },
+    "solemnity": {
+      "mean": 0.3529,
+      "std": 0.4779
+    },
+    "tenderness": {
+      "mean": 0.1765,
+      "std": 0.3812
+    },
+    "nostalgia": {
+      "mean": 0.1176,
+      "std": 0.3222
+    },
+    "calmness": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "power": {
+      "mean": 0.3529,
+      "std": 0.4779
+    },
+    "joyful_activation": {
+      "mean": 0.7059,
+      "std": 0.4556
+    },
+    "tension": {
+      "mean": 0.2941,
+      "std": 0.4556
+    },
+    "sadness": {
+      "mean": 0.0588,
+      "std": 0.2353
+    }
+  },
+  "song_7": {
+    "amazement": {
+      "mean": 0.1176,
+      "std": 0.3222
+    },
+    "solemnity": {
+      "mean": 0.2941,
+      "std": 0.4556
+    },
+    "tenderness": {
+      "mean": 0.2941,
+      "std": 0.4556
+    },
+    "nostalgia": {
+      "mean": 0.5294,
+      "std": 0.4991
+    },
+    "calmness": {
+      "mean": 0.5294,
+      "std": 0.4991
+    },
+    "power": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "joyful_activation": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "tension": {
+      "mean": 0.1176,
+      "std": 0.3222
+    },
+    "sadness": {
+      "mean": 0.5294,
+      "std": 0.4991
+    }
+  },
+  "song_8": {
+    "amazement": {
+      "mean": 0.2222,
+      "std": 0.4157
+    },
+    "solemnity": {
+      "mean": 0.3889,
+      "std": 0.4875
+    },
+    "tenderness": {
+      "mean": 0.0556,
+      "std": 0.2291
+    },
+    "nostalgia": {
+      "mean": 0.5,
+      "std": 0.5
+    },
+    "calmness": {
+      "mean": 0.4444,
+      "std": 0.4969
+    },
+    "power": {
+      "mean": 0.0556,
+      "std": 0.2291
+    },
+    "joyful_activation": {
+      "mean": 0.0,
+      "std": 0.0
+    },
+    "tension": {
+      "mean": 0.1667,
+      "std": 0.3727
+    },
+    "sadness": {
+      "mean": 0.2778,
+      "std": 0.4479
+    }
+  },
+  "song_9": {
+    "amazement": {
+      "mean": 0.2353,
+      "std": 0.4242
+    },
+    "solemnity": {
+      "mean": 0.3529,
+      "std": 0.4779
+    },
+    "tenderness": {
+      "mean": 0.0588,
+      "std": 0.2353
+    },
+    "nostalgia": {
+      "mean": 0.2353,
+      "std": 0.4242
+    },
+    "calmness": {
+      "mean": 0.2941,
+      "std": 0.4556
+    },
+    "power": {
+      "mean": 0.1176,
+      "std": 0.3222
+    },
+    "joyful_activation": {
+      "mean": 0.6471,
+      "std": 0.4779
+    },
+    "tension": {
+      "mean": 0.0588,
+      "std": 0.2353
+    },
+    "sadness": {
+      "mean": 0.0,
+      "std": 0.0
+    }
+  }
+}
