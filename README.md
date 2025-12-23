@@ -40,7 +40,7 @@ pip install pandas requests
 
 ```
 project/
-├─ script.py                  # (your code)
+├─ music.py                  # (your code)
 ├─ truth.json                 # Ground-truth stats (Emotify)
 ├─ gemini_output.json         # (created) model outputs
 ├─ means_comparison.csv       # (created)
@@ -205,37 +205,3 @@ If `gemini_output.json` exists, the script will:
 Delete `gemini_output.json` if you want a clean re-run.
 
 ---
-
-## Troubleshooting
-
-### `OPENROUTER_API_KEY not set`
-Set the environment variable and rerun.
-
-### API status != 200
-The script raises:
-```python
-raise Exception(f"API error: {response.status_code}")
-```
-To debug quickly, print `response.text` in the error path.
-
-### Model returns non-JSON
-The script attempts a regex extract of the first `{...}` block.
-If output is still malformed, consider adding:
-- retries on JSON decode failure
-- a stricter system message
-- response_format / JSON mode (if your gateway supports it)
-
----
-
-## Notes / Future improvements (optional)
-
-- Add retries with exponential backoff for transient API failures
-- Add rate limiting (sleep) to avoid throttling
-- Validate that all 9 emotions are present in the model output before saving
-- Compute summary metrics (MAE, bias per emotion, top-k alignment) directly in the script
-
----
-
-## License / Usage
-
-Internal evaluation / benchmarking utility.
